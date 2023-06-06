@@ -1,6 +1,3 @@
-# VIDEO!
-https://files.catbox.moe/8u3njo.mov
-
 # Library Management Program for WhiteTower
 
 This is a program used for managing books, allowing the user to **store**, **delete**, **search**, and **view all books**.
